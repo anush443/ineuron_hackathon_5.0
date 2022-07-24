@@ -20,3 +20,5 @@ This is Dapp where users can donate to their favorite content creators/artists.
 Smart contract are wriiten in solidity.
 Donations are of minimum 0.01 eth.
 Also shows how much eth is donated to a content creator.
+
+Built a react app to interact with the smart contract
