@@ -15,10 +15,11 @@ User Analytics and Creator Analytics should be included in a separate page. Logg
 Creator Analytics should only be visible to creators which will include details regarding donation received from individual users
 If an entity is both a creator and a user, then he shall be able to see both creator analytics and user analytics. 
 
-__________________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________________
 This is Dapp where users can donate to their favorite content creators/artists.
 Smart contract are wriiten in solidity.
 Donations are of minimum 0.01 eth.
 Also shows how much eth is donated to a content creator.
 
 Built a react app to interact with the smart contract
+Download the Dapp  and run npm i  at @ https://github.com/nikitkhakholia/ineuron_hackathon5.0
